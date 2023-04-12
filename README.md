@@ -4,7 +4,7 @@ The challenge was to find a **path** for a particle in a [cellular automaton](ht
 
 The animation below can give you a feeling for it.
 
-![output](https://user-images.githubusercontent.com/60227644/231525170-a8f50963-3279-4739-bc48-06849ccb0ef8.gif)
+![output](https://user-images.githubusercontent.com/60227644/231528356-4862d3b0-8912-414d-993b-5fed7f8dba60.gif)
 
 At the time this challenge came out, I has about 2 weeks of experience with Rust, but decided to give it try!
 
